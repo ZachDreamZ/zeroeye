@@ -1,0 +1,31 @@
+{
+  "commit": "a8707e45",
+  "typed_functions": 22,
+  "functions": [
+    "current_commit_id",
+    "diagnostic_paths_for_commit",
+    "split_diagnostic_logd",
+    "_normalize_arch",
+    "_normalize_os",
+    "detect_encryptly_platform",
+    "get_encryptly_bin",
+    "encryptly_platform_help",
+    "check_encryptly_runs",
+    "color",
+    "check_prerequisites",
+    "build_module",
+    "clean_module",
+    "verify_binary",
+    "run_cmd",
+    "collect_system_info",
+    "build_diagnostic_report",
+    "write_diagnostic_report",
+    "commit_diagnostic_artifacts",
+    "generate_logd",
+    "print_summary",
+    "main"
+  ],
+  "no_Any": true,
+  "ok": true,
+  "ts": "2026-07-17T09:33:52.705769+00:00"
+}
